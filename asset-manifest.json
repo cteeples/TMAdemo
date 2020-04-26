@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/TMAdemo/static/css/main.3d95f57a.chunk.css",
+    "main.js": "/TMAdemo/static/js/main.d91e0ec3.chunk.js",
+    "main.js.map": "/TMAdemo/static/js/main.d91e0ec3.chunk.js.map",
+    "runtime-main.js": "/TMAdemo/static/js/runtime-main.4ec252fd.js",
+    "runtime-main.js.map": "/TMAdemo/static/js/runtime-main.4ec252fd.js.map",
+    "static/css/2.cbf16948.chunk.css": "/TMAdemo/static/css/2.cbf16948.chunk.css",
+    "static/js/2.95d1a4ca.chunk.js": "/TMAdemo/static/js/2.95d1a4ca.chunk.js",
+    "static/js/2.95d1a4ca.chunk.js.map": "/TMAdemo/static/js/2.95d1a4ca.chunk.js.map",
+    "index.html": "/TMAdemo/index.html",
+    "precache-manifest.f221179ffcdab5301cd498d3622bda1f.js": "/TMAdemo/precache-manifest.f221179ffcdab5301cd498d3622bda1f.js",
+    "service-worker.js": "/TMAdemo/service-worker.js",
+    "static/css/2.cbf16948.chunk.css.map": "/TMAdemo/static/css/2.cbf16948.chunk.css.map",
+    "static/css/main.3d95f57a.chunk.css.map": "/TMAdemo/static/css/main.3d95f57a.chunk.css.map",
+    "static/js/2.95d1a4ca.chunk.js.LICENSE.txt": "/TMAdemo/static/js/2.95d1a4ca.chunk.js.LICENSE.txt",
+    "static/media/BalletClass.jpg": "/TMAdemo/static/media/BalletClass.b9659319.jpg",
+    "static/media/Batala_band_02_Videvo.mp4": "/TMAdemo/static/media/Batala_band_02_Videvo.a985648b.mp4",
+    "static/media/angela.jpg": "/TMAdemo/static/media/angela.0a7282dc.jpg",
+    "static/media/ballet_dancer.png": "/TMAdemo/static/media/ballet_dancer.68483556.png",
+    "static/media/band.png": "/TMAdemo/static/media/band.8d80c7e5.png",
+    "static/media/cassie.jpg": "/TMAdemo/static/media/cassie.cddeb98b.jpg",
+    "static/media/demo.jpg": "/TMAdemo/static/media/demo.5b652382.jpg",
+    "static/media/demo2.jpg": "/TMAdemo/static/media/demo2.33c50a4d.jpg",
+    "static/media/jai.jpg": "/TMAdemo/static/media/jai.90875ea3.jpg",
+    "static/media/jamie.jpg": "/TMAdemo/static/media/jamie.fd16f19f.jpg",
+    "static/media/logo.svg": "/TMAdemo/static/media/logo.5d5d9eef.svg",
+    "static/media/logo3.jpg": "/TMAdemo/static/media/logo3.0c21a849.jpg",
+    "static/media/register-girl.jpg": "/TMAdemo/static/media/register-girl.8da84926.jpg",
+    "static/media/team.jpg": "/TMAdemo/static/media/team.377ad11f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ec252fd.js",
+    "static/css/2.cbf16948.chunk.css",
+    "static/js/2.95d1a4ca.chunk.js",
+    "static/css/main.3d95f57a.chunk.css",
+    "static/js/main.d91e0ec3.chunk.js"
+  ]
+}
