@@ -23,13 +23,13 @@ export class App extends Component {
         <Layout>
           <Router>
           <Switch>
-            <Route exact path="/" component={Home}/>
-            <Route path="/about" component={About}/>
-            <Route path="/faculty" component={Faculty}/>
-            <Route path="/performance-company" component={PerformanceCompany}/>
-            <Route path="/registration" component={Registration}/>
-            <Route path="/pricing" component={Pricing}/>
-            <Route path="/schedule" component={Schedule}/>
+            <Route exact path="/TMAdemo/#" component={Home}/>
+            <Route path="/TMAdemo/#/about" component={About}/>
+            <Route path="/TMAdemo/#/faculty" component={Faculty}/>
+            <Route path="/TMAdemo/#/performance-company" component={PerformanceCompany}/>
+            <Route path="/TMAdemo/#/registration" component={Registration}/>
+            <Route path="/TMAdemo/#/pricing" component={Pricing}/>
+            <Route path="/TMAdemo/#/schedule" component={Schedule}/>
           </Switch>
           </Router>
         </Layout>
