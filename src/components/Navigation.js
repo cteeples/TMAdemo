@@ -39,8 +39,8 @@ export class Navigation extends Component {
           <div className="NavBar">
           <div className="top-div"/>
           <Navbar bg="white" expand="lg" sticky="top">
-            <Navbar.Brand href="/">
-            <a href="/">
+            <Navbar.Brand href="/TMAdemo/#">
+            <a href="/TMAdemo/#">
                 <Image
                     src={logo}
                     align="left"
@@ -55,12 +55,12 @@ export class Navigation extends Component {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" >
                 <Nav className="mr-auto">
-                <Nav.Item><Nav.Link href="/about" className="Nav">About</Nav.Link></Nav.Item>
-                <Nav.Link href="/performance-company" className="Nav">Performance Company</Nav.Link>
-                <Nav.Link href="/faculty" className="Nav">Faculty</Nav.Link>
-                <Nav.Link href="/registration" className="Nav">Registration</Nav.Link>
-                <Nav.Link href="/pricing" className="Nav">Pricing</Nav.Link>
-                <Nav.Link href="/schedule" className="fancy-nav-link">Schedule</Nav.Link>
+                <Nav.Item><Nav.Link href="/TMAdemo/#/about" className="Nav">About</Nav.Link></Nav.Item>
+                <Nav.Link href="/TMAdemo/#/performance-company" className="Nav">Performance Company</Nav.Link>
+                <Nav.Link href="/TMAdemo/#/faculty" className="Nav">Faculty</Nav.Link>
+                <Nav.Link href="/TMAdemo/#/registration" className="Nav">Registration</Nav.Link>
+                <Nav.Link href="/TMAdemo/#/pricing" className="Nav">Pricing</Nav.Link>
+                <Nav.Link href="/TMAdemo/#/schedule" className="fancy-nav-link">Schedule</Nav.Link>
                 </Nav>
                 <Form inline>
                 <FormControl type="text" placeholder="Search" className="mr-sm-2" />
